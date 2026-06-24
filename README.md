@@ -2,11 +2,11 @@
 
 --jalar cambios
    
-   git pull origin main
+    git pull origin main
 
 --obtener estado actual de repositorio
 
-  git status
+    git status
 
 --agregar cambios
     
