@@ -17,6 +17,6 @@
 
     git commit -m "agregar un comentario"
 
---empujar el cambio
+--empujar el cambio hhh
 
     git push origin main
