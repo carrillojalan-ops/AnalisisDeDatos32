@@ -1,23 +1,23 @@
 # AnalisisDeDatos32
 
---jalar cambios
+--jalar cambios:
    
     git pull origin main
 
---obtener estado actual de repositorio
+--obtener estado actual de repositorio:
 
     git status
 
---agregar cambios
+--agregar cambios:
     
     git add .
     
 
---crear commit
+--crear commit:
 
     git commit -m "agregar un comentario"
 
---empujar el cambio 
+--empujar el cambio: 
 
     git push origin main
 
@@ -43,14 +43,14 @@
 
     docker logs -f jupyter
 
--- Eliminar una imagen
+-- Eliminar una imagen:
 
     docker rmi -f jupyter_notebook
 
--- Eliminar una contenedor
+-- Eliminar una contenedor:
 
     docker rm -f jupyter
 
--- Instalar librerias
+-- Instalar librerias:
 
     pip install -r requeriment.txt
